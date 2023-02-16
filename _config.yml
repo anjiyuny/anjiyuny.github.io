@@ -1,20 +1,19 @@
 # Site settings
-futrue: true
-title: Anjuyuny
-description: 'Anjuyuny-BLOG'
-url: 'https://anjiyuny.github.io/'
-baseurl: ''
-published: true
+title: Jekyll-Uno
+description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+url: 'http://joshgerdes.com/jekyll-uno'
+baseurl: '/jekyll-uno'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
 author:
-  name: 'Anjuyuny'
-  email: jiyoonan98@gmail.com
-  twitter_username: 
-  facebook_username: 
-  github_username: anjuyuny  
+  name: 'Josh Gerdes'
+  email: josh@joshgerdes.com
+  twitter_username: joshgerdes
+  facebook_username: joshgerdes
+  github_username:  joshgerdes
+  linkedin_username:  joshgerdes
 
 defaults:
   -
@@ -42,4 +41,4 @@ kramdown:
   hard_wrap: false
 
 plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', 'verdor/']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
