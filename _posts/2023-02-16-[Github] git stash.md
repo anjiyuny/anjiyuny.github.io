@@ -1,6 +1,6 @@
 ---
 title:  "[Github] git stash"
-date:   2023-02-17
+date:   2023-02-16
 categories: [study]
 tags: [github]
 ---
