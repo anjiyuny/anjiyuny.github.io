@@ -1,12 +1,10 @@
 # Site settings
-
 futrue: true
 title: Anjuyuny
 description: 'Anjuyuny-BLOG'
 url: 'https://anjiyuny.github.io/'
 baseurl: ''
 published: true
-timezone: Asia/Seoul
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
@@ -17,7 +15,6 @@ author:
   twitter_username: 
   facebook_username: 
   github_username: anjuyuny  
-
 
 defaults:
   -
