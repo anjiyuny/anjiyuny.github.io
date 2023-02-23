@@ -1120,11 +1120,13 @@ pre {
 .content-wrapper {
 	z-index: 800;
 	width: 60%;
-	max-width: 800px;
+	// max-width: 800px; //23.02.23 수정	
 	margin-left: 40%; }
 
 .content-wrapper__inner {
-	margin: 0 10%;
+	// margin: 0 10%;
+	// 23.03.23 수정
+	margin: 0 5% 0 10%;
 	padding: 50px 0; }
 
 .footer {
